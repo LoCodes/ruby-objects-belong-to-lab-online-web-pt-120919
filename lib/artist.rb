@@ -1,1 +1,3 @@
-https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/object-relationships/belongs-to-object-lab#
+#https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/object-relationships/belongs-to-object-lab#
+
+class Artist
